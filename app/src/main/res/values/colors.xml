@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mustad">#e1c155</color>
+    <color name="yellow">#ecce69</color>
+    <color name="dark">#7371fc</color>
+    <color name="light">#cdc1ff</color>
+    <color name="cream">#F6F2FB</color>
+    <color name="medium">#a594f9</color>
+
+
+
+
+</resources>

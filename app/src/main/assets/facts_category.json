@@ -1,0 +1,217 @@
+[
+    {
+        "category": {
+            "name": "Inspirational",
+            "imageUrl": "https://i.pinimg.com/474x/4c/42/42/4c4242913f34488f0d4d043bdfaaf3d4.jpg"
+        },
+        "facts": [
+            {"id": 1, "text": "The only way to do great work is to love what you do."},
+            {"id": 2, "text": "The best way to predict the future is to invent it."},
+            {"id": 3, "text": "You miss 100% of the shots you don’t take."},
+            {"id": 4, "text": "Don’t watch the clock; do what it does. Keep going."},
+            {"id": 5, "text": "Success is not the key to happiness. Happiness is the key to success."},
+            {"id": 6, "text": "Believe you can and you’re halfway there."},
+            {"id": 7, "text": "Your time is limited, so don’t waste it living someone else’s life."},
+            {"id": 8, "text": "You must be the change you wish to see in the world."},
+            {"id": 9, "text": "Hardships often prepare ordinary people for an extraordinary destiny."},
+            {"id": 10, "text": "Don’t wait for opportunity. Create it."}
+        ]
+    },
+    {
+        "category": {
+            "name": "Love",
+            "imageUrl": "https://i.pinimg.com/474x/2b/3c/c1/2b3cc12ca218b8655a6ada0c32d288a3.jpg"
+        },
+        "facts": [
+            {"id": 1, "text": "Love is not about how much you say ‘I love you,’ but how much you prove that it’s true."},
+            {"id": 2, "text": "The best thing to hold onto in life is each other."},
+            {"id": 3, "text": "Love is when the other person’s happiness is more important than your own."},
+            {"id": 4, "text": "To love and be loved is to feel the sun from both sides."},
+            {"id": 5, "text": "Love is composed of a single soul inhabiting two bodies."},
+            {"id": 6, "text": "Love is a friendship set to music."},
+            {"id": 7, "text": "The giving of love is an education in itself."},
+            {"id": 8, "text": "The best proof of love is trust."},
+            {"id": 9, "text": "Love is the only force capable of transforming an enemy into a friend."},
+            {"id": 10, "text": "We accept the love we think we deserve."}
+        ]
+    },
+    {
+        "category": {
+            "name": "Life",
+            "imageUrl": "https://i.pinimg.com/474x/15/5b/16/155b16cc57875ee6cb53bec0d4952f15.jpg"
+        },
+        "facts": [
+            {"id": 1, "text": "In the end, it’s not the years in your life that count. It’s the life in your years."},
+            {"id": 2, "text": "Life is 10% what happens to us and 90% how we react to it."},
+            {"id": 3, "text": "Your life does not get better by chance, it gets better by change."},
+            {"id": 4, "text": "Life isn’t about finding yourself. Life is about creating yourself."},
+            {"id": 5, "text": "The biggest adventure you can take is to live the life of your dreams."},
+            {"id": 6, "text": "Life is what happens when you’re busy making other plans."},
+            {"id": 7, "text": "Difficulties in life are intended to make us better, not bitter."},
+            {"id": 8, "text": "The purpose of life is not to be happy. It is to be useful."},
+            {"id": 9, "text": "Life is short, and it’s up to you to make it sweet."},
+            {"id": 10, "text": "Life is really simple, but we insist on making it complicated."}
+        ]
+    },
+    {
+        "category": {
+            "name": "Happiness",
+            "imageUrl": "https://i.pinimg.com/474x/c0/02/f7/c002f7a977c11bb48d80bee1eba83d50.jpg"
+        },
+        "facts": [
+            {"id": 1, "text": "Happiness is not something ready made. It comes from your own actions."},
+            {"id": 2, "text": "Happiness is when what you think, what you say, and what you do are in harmony."},
+            {"id": 3, "text": "The purpose of our lives is to be happy."},
+            {"id": 4, "text": "Happiness is not by chance, but by choice."},
+            {"id": 5, "text": "For every minute you are angry you lose sixty seconds of happiness."},
+            {"id": 6, "text": "Happiness is the secret to all beauty. There is no beauty without happiness."},
+            {"id": 7, "text": "The key to being happy is knowing you have the power to choose what to accept and what to let go."},
+            {"id": 8, "text": "Happiness is a state of mind. It’s just according to the way you look at things."},
+            {"id": 9, "text": "The only thing that will make you happy is being happy with who you are."},
+            {"id": 10, "text": "Happiness is not a goal...it’s a by-product of a life well-lived."}
+        ]
+    },
+    {
+        "category": {
+            "name": "Success",
+            "imageUrl": "https://i.pinimg.com/474x/d5/7a/c8/d57ac834ce087dadb608f8492f04c36a.jpg"
+        },
+        "facts": [
+            {"id": 1, "text": "Success is not the key to happiness. Happiness is the key to success."},
+            {"id": 2, "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."},
+            {"id": 3, "text": "Success usually comes to those who are too busy to be looking for it."},
+            {"id": 4, "text": "The secret of success is to do the common thing uncommonly well."},
+            {"id": 5, "text": "Success is not in what you have, but who you are."},
+            {"id": 6, "text": "Success seems to be connected with action. Successful people keep moving."},
+            {"id": 7, "text": "Success is not how high you have climbed, but how you make a positive difference to the world."},
+            {"id": 8, "text": "Success is not about being the best. It’s about always getting better."},
+            {"id": 9, "text": "Success is the sum of small efforts, repeated day-in and day-out."},
+            {"id": 10, "text": "The road to success and the road to failure are almost exactly the same."}
+        ]
+    },
+    {
+            "category": {
+                "name": "Introvert",
+                "imageUrl": "https://i.pinimg.com/474x/36/18/c5/3618c544af9803004da77bf7847ce217.jpg"
+            },
+            "facts": [
+                {"id": 1, "text": "Introverts often feel more energized by spending time alone or with a small group of close friends."},
+                {"id": 2, "text": "Introverts may excel in environments that require deep thinking and focus."},
+                {"id": 3, "text": "Introverts tend to listen more than they speak and often think before they talk."},
+                {"id": 4, "text": "Introverts may feel drained after social interactions and need time alone to recharge."},
+                {"id": 5, "text": "Introverts are often introspective and enjoy exploring their own thoughts and feelings."},
+                {"id": 6, "text": "Introverts can be highly creative and innovative, often coming up with unique solutions."},
+                {"id": 7, "text": "Introverts value meaningful conversations over small talk."},
+                {"id": 8, "text": "Introverts often prefer written communication, such as emails or texts, over phone calls."},
+                {"id": 9, "text": "Introverts are typically more reserved and may take longer to open up to others."},
+                {"id": 10, "text": "Introverts can form deep, lasting relationships with a few close friends."}
+            ]
+        },
+        {
+            "category": {
+                "name": "Extrovert",
+                "imageUrl": "https://i.pinimg.com/474x/df/37/09/df37098253368cefcb89a4b43ab6887a.jpg"
+            },
+            "facts": [
+                {"id": 1, "text": "Extroverts often feel more energized by being around other people and engaging in social activities."},
+                {"id": 2, "text": "Extroverts tend to enjoy being the center of attention and are often more outgoing."},
+                {"id": 3, "text": "Extroverts may thrive in environments that involve teamwork and collaboration."},
+                {"id": 4, "text": "Extroverts often think out loud and may make decisions quickly."},
+                {"id": 5, "text": "Extroverts are usually comfortable with public speaking and large gatherings."},
+                {"id": 6, "text": "Extroverts may feel bored or restless when alone for long periods."},
+                {"id": 7, "text": "Extroverts are often good at networking and building large social circles."},
+                {"id": 8, "text": "Extroverts tend to seek out excitement and new experiences."},
+                {"id": 9, "text": "Extroverts may be more likely to take risks and seek adventure."},
+                {"id": 10, "text": "Extroverts often enjoy leading group activities and organizing social events."}
+            ]
+        },
+        {
+            "category": {
+                "name": "Silence",
+                "imageUrl": "https://i.pinimg.com/474x/9a/68/1f/9a681f478828f405505785ee0be77908.jpg"
+            },
+            "facts": [
+                {"id": 1, "text": "Silence can help to reduce stress and promote relaxation."},
+                {"id": 2, "text": "Periods of silence can enhance creativity and problem-solving abilities."},
+                {"id": 3, "text": "Silence allows for deep reflection and self-awareness."},
+                {"id": 4, "text": "Practicing silence can improve concentration and focus."},
+                {"id": 5, "text": "Silence can enhance listening skills and empathy towards others."},
+                {"id": 6, "text": "Spending time in silence can improve mental clarity and decision-making."},
+                {"id": 7, "text": "Silence can help to process emotions and reduce negative thinking."},
+                {"id": 8, "text": "Regular silence practices can improve overall well-being and mental health."},
+                {"id": 9, "text": "Silence can provide a break from constant stimulation and allow for inner peace."},
+                {"id": 10, "text": "Silence can foster a deeper connection with oneself and the environment."}
+            ]
+        },
+        {
+            "category": {
+                "name": "Intelligence",
+                "imageUrl": "https://i.pinimg.com/474x/03/3d/e3/033de3079c5a4d6e9e57e495931449e6.jpg"
+            },
+            "facts": [
+                {"id": 1, "text": "Intelligence is not fixed and can be developed through learning and experience."},
+                {"id": 2, "text": "People with high emotional intelligence are often better at managing relationships and social situations."},
+                {"id": 3, "text": "Intelligence can manifest in various forms, including logical, linguistic, spatial, and interpersonal."},
+                {"id": 4, "text": "Curiosity and a love of learning are often associated with high intelligence."},
+                {"id": 5, "text": "Critical thinking and problem-solving skills are key components of intelligence."},
+                {"id": 6, "text": "Intelligence can be influenced by both genetic and environmental factors."},
+                {"id": 7, "text": "People with high intelligence often have a strong sense of self-discipline and perseverance."},
+                {"id": 8, "text": "Intelligence can be nurtured through mental exercises and continuous learning."},
+                {"id": 9, "text": "Creative thinking is a sign of high intelligence and often leads to innovative ideas."},
+                {"id": 10, "text": "Intelligence is not just about academic achievement; it includes practical and social intelligence as well."}
+            ]
+        },
+        {
+            "category": {
+                "name": "Personality",
+                "imageUrl": "https://i.pinimg.com/474x/60/90/05/60900545a6926f6a46c1b409a41816a7.jpg"
+            },
+            "facts": [
+                {"id": 1, "text": "Personality traits can influence behavior, thoughts, and emotions."},
+                {"id": 2, "text": "The Big Five personality traits are openness, conscientiousness, extraversion, agreeableness, and neuroticism."},
+                {"id": 3, "text": "Personality is shaped by a combination of genetic and environmental factors."},
+                {"id": 4, "text": "Introversion and extraversion are key aspects of personality that influence social interactions."},
+                {"id": 5, "text": "Personality can change over time, especially with significant life experiences."},
+                {"id": 6, "text": "People with similar personalities may gravitate towards similar interests and activities."},
+                {"id": 7, "text": "Understanding personality can help improve relationships and communication."},
+                {"id": 8, "text": "Personality assessments can provide insights into strengths and areas for growth."},
+                {"id": 9, "text": "Different personality types may handle stress and conflict in various ways."},
+                {"id": 10, "text": "Personality can impact career choices and job satisfaction."}
+            ]
+        },
+    {
+        "category": {
+            "name": "Human Brain",
+            "imageUrl": "data:image/jpeg;base64,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"
+        },
+        "facts": [
+            {"id": 1, "text": "It can store an estimated 2,500,000 gigabytes."},
+            {"id": 2, "text": "The human attention span is shorter than a goldfish."},
+            {"id": 3, "text": "The average weight of the adult human brain is three pounds."},
+            {"id": 4, "text": "Memories are stored for both short-term and long-term use at the same time."},
+            {"id": 5, "text": "Vitamin B1 can help improve short- and long-term memory."},
+            {"id": 6, "text": "Easy access to information can make it harder to remember."},
+            {"id": 7, "text": "Memories start forming in the womb."},
+            {"id": 8, "text": "It uses 20% of the body’s total oxygen and energy."},
+            {"id": 9, "text": "It’s composed of 73% water."},
+            {"id": 10, "text": "Sweating can temporarily shrink the brain."},
+            {"id": 11, "text": "Five minutes without oxygen can cause brain damage."},
+            {"id": 12, "text": "It generates 12-15 watts of electricity."},
+            {"id": 13, "text": "Neurons travel 150 mph in the brain."},
+            {"id": 14, "text": "Those who take a quiz twice are 65% more likely to remember the facts."},
+            {"id": 15, "text": "Learning new things increases grey matter in the brain."},
+            {"id": 16, "text": "Memory is prioritized by emotion."},
+            {"id": 17, "text": "Emotions can alter our brain chemistry."},
+            {"id": 18, "text": "It has an average of 50,000-70,000 thoughts a day."},
+            {"id": 19, "text": "More than 100,000 chemical reactions take place in the brain every second."},
+            {"id": 20, "text": "When intoxicated, it can’t form memories."},
+            {"id": 21, "text": "Practicing recollection can help with PTSD."},
+            {"id": 22, "text": "Its texture and consistency are comparable to tofu."},
+            {"id": 23, "text": "It starts slowing at around 24 years old."},
+            {"id": 24, "text": "95% of all decisions are subconscious."},
+            {"id": 25, "text": "The brain itself cannot feel pain."}
+        ]
+    }
+
+]
+    
